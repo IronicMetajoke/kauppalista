@@ -1,2 +1,2 @@
 # kauppalista
-Kauppalista, koska muistini on huono
+Kauppalista, yleisiä varten.
